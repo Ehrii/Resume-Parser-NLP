@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Resume and Job Matches</title>
+  </head>
+  <body>
+    <h1>Uploaded Resume</h1>
+    <p><strong>Text Content:</strong> {{ text_content }}</p>
+    <p><strong>Age:</strong> {{ age }}</p>
+    <p><strong>Skills:</strong> {{ skills }}</p>
+    <p><strong>Education:</strong> {{ education }}</p>
+
+    <h2>Matched Jobs</h2>
+    {% if matched_jobs %}
+    <ul>
+      {% for job in matched_jobs %}
+      <li>
+        <h3>{{ job.job_title }}</h3>
+        <p><strong>Job Requirements:</strong> {{ job.job_requirements }}</p>
+        <p><strong>Job Skills Required:</strong> {{ job.job_skills }}</p>
+        <p><strong>Matched Skills:</strong> {{ job.skill_matches }}</p>
+        <p><strong>Matched Education:</strong> {{ job.education_matches }}</p>
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p>No matching jobs found.</p>
+    {% endif %}
+
+    <p><a href="/upload">Go Back to Upload</a></p>
+  </body>
+</html>

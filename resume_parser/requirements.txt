@@ -1,0 +1,7 @@
+Flask
+Flask-MySQLdb
+PyMuPDF  # for PDF parsing
+python-docx  # for DOCX parsing
+pytesseract
+scikit-learn
+spacy

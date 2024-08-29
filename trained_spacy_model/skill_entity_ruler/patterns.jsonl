@@ -1,0 +1,729 @@
+{"label":"SKILL","pattern":"Accounting"}
+{"label":"SKILL","pattern":"Adobe Illustrator"}
+{"label":"SKILL","pattern":"Adobe Premier"}
+{"label":"SKILL","pattern":"Adobe Photoshop"}
+{"label":"SKILL","pattern":"Adobe Animate"}
+{"label":"SKILL","pattern":"A/B Testing"}
+{"label":"SKILL","pattern":"Agile Methodology"}
+{"label":"SKILL","pattern":"Algorithm Design"}
+{"label":"SKILL","pattern":"Angular"}
+{"label":"SKILL","pattern":"Animation"}
+{"label":"SKILL","pattern":"Apache"}
+{"label":"SKILL","pattern":"AutoCAD"}
+{"label":"SKILL","pattern":"Blockchain"}
+{"label":"SKILL","pattern":"Brand Management"}
+{"label":"SKILL","pattern":"C++"}
+{"label":"SKILL","pattern":"CAD Software"}
+{"label":"SKILL","pattern":"Cloud Computing"}
+{"label":"SKILL","pattern":"COBOL"}
+{"label":"SKILL","pattern":"Content Management Systems"}
+{"label":"SKILL","pattern":"CRM Software"}
+{"label":"SKILL","pattern":"CSS"}
+{"label":"SKILL","pattern":"Data Analysis"}
+{"label":"SKILL","pattern":"Data Mining"}
+{"label":"SKILL","pattern":"Data Visualization"}
+{"label":"SKILL","pattern":"Database Management"}
+{"label":"SKILL","pattern":"DevOps"}
+{"label":"SKILL","pattern":"Django"}
+{"label":"SKILL","pattern":"Docker"}
+{"label":"SKILL","pattern":"Excel"}
+{"label":"SKILL","pattern":"Firewall Management"}
+{"label":"SKILL","pattern":"Firewalls"}
+{"label":"SKILL","pattern":"Firewall"}
+{"label":"SKILL","pattern":"Git"}
+{"label":"SKILL","pattern":"HTML"}
+{"label":"SKILL","pattern":"Java"}
+{"label":"SKILL","pattern":"JavaScript"}
+{"label":"SKILL","pattern":"jQuery"}
+{"label":"SKILL","pattern":"Kubernetes"}
+{"label":"SKILL","pattern":"Linux"}
+{"label":"SKILL","pattern":"MATLAB"}
+{"label":"SKILL","pattern":"Microsoft Access"}
+{"label":"SKILL","pattern":"Microsoft Excel"}
+{"label":"SKILL","pattern":"Microsoft PowerPoint"}
+{"label":"SKILL","pattern":"PowerPoint"}
+{"label":"SKILL","pattern":"Microsoft Word"}
+{"label":"SKILL","pattern":"Mobile Development"}
+{"label":"SKILL","pattern":"MongoDB"}
+{"label":"SKILL","pattern":"MySQL"}
+{"label":"SKILL","pattern":"Node.js"}
+{"label":"SKILL","pattern":"Objective-C"}
+{"label":"SKILL","pattern":"Oracle"}
+{"label":"SKILL","pattern":"PHP"}
+{"label":"SKILL","pattern":"PostgreSQL"}
+{"label":"SKILL","pattern":"Project Management"}
+{"label":"SKILL","pattern":"Python"}
+{"label":"SKILL","pattern":"React"}
+{"label":"SKILL","pattern":"Ruby on Rails"}
+{"label":"SKILL","pattern":"SAS"}
+{"label":"SKILL","pattern":"SEO"}
+{"label":"SKILL","pattern":"SQL"}
+{"label":"SKILL","pattern":"Software Development"}
+{"label":"SKILL","pattern":"Software Engineering"}
+{"label":"SKILL","pattern":"Statistical Analysis"}
+{"label":"SKILL","pattern":"Tableau"}
+{"label":"SKILL","pattern":"TensorFlow"}
+{"label":"SKILL","pattern":"UX Design"}
+{"label":"SKILL","pattern":"UI Design"}
+{"label":"SKILL","pattern":"VBA"}
+{"label":"SKILL","pattern":"Version Control"}
+{"label":"SKILL","pattern":"Web Development"}
+{"label":"SKILL","pattern":"Web Design"}
+{"label":"SKILL","pattern":"Windows Server"}
+{"label":"SKILL","pattern":"XML"}
+{"label":"SKILL","pattern":"Agile Scrum"}
+{"label":"SKILL","pattern":"Artificial Intelligence"}
+{"label":"SKILL","pattern":"Business Intelligence"}
+{"label":"SKILL","pattern":"Cloud Storage"}
+{"label":"SKILL","pattern":"Cybersecurity"}
+{"label":"SKILL","pattern":"Digital Marketing"}
+{"label":"SKILL","pattern":"Ethical Hacking"}
+{"label":"SKILL","pattern":"Flash Animation"}
+{"label":"SKILL","pattern":"Front-End Development"}
+{"label":"SKILL","pattern":"Full Stack Development"}
+{"label":"SKILL","pattern":"GIS Software"}
+{"label":"SKILL","pattern":"GraphQL"}
+{"label":"SKILL","pattern":"Information Architecture"}
+{"label":"SKILL","pattern":"IT Support"}
+{"label":"SKILL","pattern":"Java EE"}
+{"label":"SKILL","pattern":"JIRA"}
+{"label":"SKILL","pattern":"Kubernetes"}
+{"label":"SKILL","pattern":"Network Security"}
+{"label":"SKILL","pattern":"Node.js"}
+{"label":"SKILL","pattern":"Object-Oriented Programming"}
+{"label":"SKILL","pattern":"Penetration Testing"}
+{"label":"SKILL","pattern":"Product Management"}
+{"label":"SKILL","pattern":"Programming Languages"}
+{"label":"SKILL","pattern":"QA Testing"}
+{"label":"SKILL","pattern":"React Native"}
+{"label":"SKILL","pattern":"SaaS"}
+{"label":"SKILL","pattern":"Salesforce"}
+{"label":"SKILL","pattern":"SAP"}
+{"label":"SKILL","pattern":"Script Writing"}
+{"label":"SKILL","pattern":"Server Administration"}
+{"label":"SKILL","pattern":"SEO Optimization"}
+{"label":"SKILL","pattern":"Shell Scripting"}
+{"label":"SKILL","pattern":"Software Testing"}
+{"label":"SKILL","pattern":"Systems Analysis"}
+{"label":"SKILL","pattern":"Technical Support"}
+{"label":"SKILL","pattern":"Telecommunications"}
+{"label":"SKILL","pattern":"UX Research"}
+{"label":"SKILL","pattern":"Web Analytics"}
+{"label":"SKILL","pattern":"Web Services"}
+{"label":"SKILL","pattern":"Wireless Networking"}
+{"label":"SKILL","pattern":"XML Parsing"}
+{"label":"SKILL","pattern":"Agile Coaching"}
+{"label":"SKILL","pattern":"Amazon Web Services (AWS)"}
+{"label":"SKILL","pattern":"API Development"}
+{"label":"SKILL","pattern":"Application Security"}
+{"label":"SKILL","pattern":"Architecture Design"}
+{"label":"SKILL","pattern":"Business Analysis"}
+{"label":"SKILL","pattern":"C#"}
+{"label":"SKILL","pattern":"Cloud Architecture"}
+{"label":"SKILL","pattern":"Cloud Infrastructure"}
+{"label":"SKILL","pattern":"Competitive Analysis"}
+{"label":"SKILL","pattern":"Cost Analysis"}
+{"label":"SKILL","pattern":"Cyber Defense"}
+{"label":"SKILL","pattern":"Data Warehousing"}
+{"label":"SKILL","pattern":"Database Design"}
+{"label":"SKILL","pattern":"Data Science"}
+{"label":"SKILL","pattern":"Digital Strategy"}
+{"label":"SKILL","pattern":"Embedded Systems"}
+{"label":"SKILL","pattern":"Enterprise Architecture"}
+{"label":"SKILL","pattern":"Financial Modeling"}
+{"label":"SKILL","pattern":"Game Development"}
+{"label":"SKILL","pattern":"Graphic Design"}
+{"label":"SKILL","pattern":"Health Informatics"}
+{"label":"SKILL","pattern":"ITIL"}
+{"label":"SKILL","pattern":"JavaScript Frameworks"}
+{"label":"SKILL","pattern":"Knowledge Management"}
+{"label":"SKILL","pattern":"Machine Learning"}
+{"label":"SKILL","pattern":"Market Research"}
+{"label":"SKILL","pattern":"Multimedia Design"}
+{"label":"SKILL","pattern":"Natural Language Processing"}
+{"label":"SKILL","pattern":"Network Administration"}
+{"label":"SKILL","pattern":"Objective-C Programming"}
+{"label":"SKILL","pattern":"Open Source Software"}
+{"label":"SKILL","pattern":"Performance Tuning"}
+{"label":"SKILL","pattern":"Product Development"}
+{"label":"SKILL","pattern":"Quantitative Analysis"}
+{"label":"SKILL","pattern":"Real-Time Data Processing"}
+{"label":"SKILL","pattern":"Risk Management"}
+{"label":"SKILL","pattern":"SaaS Development"}
+{"label":"SKILL","pattern":"Salesforce Administration"}
+{"label":"SKILL","pattern":"SAP ERP"}
+{"label":"SKILL","pattern":"Search Engine Marketing (SEM)"}
+{"label":"SKILL","pattern":"Social Media Marketing"}
+{"label":"SKILL","pattern":"Software Architecture"}
+{"label":"SKILL","pattern":"Systems Integration"}
+{"label":"SKILL","pattern":"Technical Writing"}
+{"label":"SKILL","pattern":"Video Editing"}
+{"label":"SKILL","pattern":"Virtualization"}
+{"label":"SKILL","pattern":"Web Content Management"}
+{"label":"SKILL","pattern":"Web Programming"}
+{"label":"SKILL","pattern":"Web Prototyping"}
+{"label":"SKILL","pattern":"Wireless Communication"}
+{"label":"SKILL","pattern":"3D Modeling"}
+{"label":"SKILL","pattern":"3D Printing"}
+{"label":"SKILL","pattern":"Agile Project Management"}
+{"label":"SKILL","pattern":"Big Data"}
+{"label":"SKILL","pattern":"Cloud Solutions"}
+{"label":"SKILL","pattern":"Content Creation"}
+{"label":"SKILL","pattern":"Customer Relationship Management (CRM)"}
+{"label":"SKILL","pattern":"Data Integration"}
+{"label":"SKILL","pattern":"Digital Content"}
+{"label":"SKILL","pattern":"Digital Product Management"}
+{"label":"SKILL","pattern":"Embedded Programming"}
+{"label":"SKILL","pattern":"Enterprise Resource Planning (ERP)"}
+{"label":"SKILL","pattern":"Ethical Hacking Tools"}
+{"label":"SKILL","pattern":"Game Design"}
+{"label":"SKILL","pattern":"Geographic Information Systems (GIS)"}
+{"label":"SKILL","pattern":"IT Compliance"}
+{"label":"SKILL","pattern":"IT Management"}
+{"label":"SKILL","pattern":"IT Strategy"}
+{"label":"SKILL","pattern":"JavaScript Libraries"}
+{"label":"SKILL","pattern":"Linux Administration"}
+{"label":"SKILL","pattern":"Machine Vision"}
+{"label":"SKILL","pattern":"Mobile App Development"}
+{"label":"SKILL","pattern":"Network Configuration"}
+{"label":"SKILL","pattern":"Object Detection"}
+{"label":"SKILL","pattern":"PHP Frameworks"}
+{"label":"SKILL","pattern":"Predictive Analytics"}
+{"label":"SKILL","pattern":"Remote Sensing"}
+{"label":"SKILL","pattern":"SaaS Solutions"}
+{"label":"SKILL","pattern":"Social Media Analytics"}
+{"label":"SKILL","pattern":"Statistical Modeling"}
+{"label":"SKILL","pattern":"Technical Analysis"}
+{"label":"SKILL","pattern":"Test Automation"}
+{"label":"SKILL","pattern":"Virtual Reality"}
+{"label":"SKILL","pattern":"Vulnerability Assessment"}
+{"label":"SKILL","pattern":"Web Development Frameworks"}
+{"label":"SKILL","pattern":"Wireless Security"}
+{"label":"SKILL","pattern":"XML Schema"}
+{"label":"SKILL","pattern":"YARN"}
+{"label":"SKILL","pattern":"Zabbix"}
+{"label":"SKILL","pattern":"Zsh"}
+{"label":"SKILL","pattern":"Agile Frameworks"}
+{"label":"SKILL","pattern":"Amazon RDS"}
+{"label":"SKILL","pattern":"Automated Testing"}
+{"label":"SKILL","pattern":"Blockchain Development"}
+{"label":"SKILL","pattern":"Cloud-Based Solutions"}
+{"label":"SKILL","pattern":"Continuous Integration"}
+{"label":"SKILL","pattern":"Continuous Deployment"}
+{"label":"SKILL","pattern":"Continuous Learning"}
+{"label":"SKILL","pattern":"Cross-Platform Development"}
+{"label":"SKILL","pattern":"Data Engineering"}
+{"label":"SKILL","pattern":"Data Migration"}
+{"label":"SKILL","pattern":"Data Recovery"}
+{"label":"SKILL","pattern":"Digital Forensics"}
+{"label":"SKILL","pattern":"Document Management Systems"}
+{"label":"SKILL","pattern":"ETL Processes"}
+{"label":"SKILL","pattern":"Front-End Frameworks"}
+{"label":"SKILL","pattern":"Full Stack Frameworks"}
+{"label":"SKILL","pattern":"Graph Theory"}
+{"label":"SKILL","pattern":"Information Security"}
+{"label":"SKILL","pattern":"Infrastructure as Code"}
+{"label":"SKILL","pattern":"Internet of Things (IoT)"}
+{"label":"SKILL","pattern":"JavaScript ES6+"}
+{"label":"SKILL","pattern":"Kubernetes Orchestration"}
+{"label":"SKILL","pattern":"Low-Code Development"}
+{"label":"SKILL","pattern":"MDM Solutions"}
+{"label":"SKILL","pattern":"Mobile UI/UX Design"}
+{"label":"SKILL","pattern":"Network Engineering"}
+{"label":"SKILL","pattern":"NoSQL Databases"}
+{"label":"SKILL","pattern":"Optical Character Recognition (OCR)"}
+{"label":"SKILL","pattern":"PHP Development"}
+{"label":"SKILL","pattern":"Platform as a Service (PaaS)"}
+{"label":"SKILL","pattern":"Predictive Modeling"}
+{"label":"SKILL","pattern":"RESTful APIs"}
+{"label":"SKILL","pattern":"Robotic Process Automation (RPA)"}
+{"label":"SKILL","pattern":"SaaS Management"}
+{"label":"SKILL","pattern":"Serverless Architecture"}
+{"label":"SKILL","pattern":"Software Deployment"}
+{"label":"SKILL","pattern":"Statistical Software"}
+{"label":"SKILL","pattern":"Storage Solutions"}
+{"label":"SKILL","pattern":"Technical SEO"}
+{"label":"SKILL","pattern":"Test-Driven Development (TDD)"}
+{"label":"SKILL","pattern":"Web Application Security"}
+{"label":"SKILL","pattern":"Web Server Management"}
+{"label":"SKILL","pattern":"Windows Administration"}
+{"label":"SKILL","pattern":"Wireless Protocols"}
+{"label":"SKILL","pattern":"3D Animation"}
+{"label":"SKILL","pattern":"3D Graphics"}
+{"label":"SKILL","pattern":"API Integration"}
+{"label":"SKILL","pattern":"Asset Management"}
+{"label":"SKILL","pattern":"Augmented Reality (AR)"}
+{"label":"SKILL","pattern":"Big Data Analytics"}
+{"label":"SKILL","pattern":"Cloud Networking"}
+{"label":"SKILL","pattern":"Cloud Security"}
+{"label":"SKILL","pattern":"Computational Analysis"}
+{"label":"SKILL","pattern":"Cybersecurity Tools"}
+{"label":"SKILL","pattern":"Data Cleansing"}
+{"label":"SKILL","pattern":"Data Governance"}
+{"label":"SKILL","pattern":"Data Modeling"}
+{"label":"SKILL","pattern":"Data Science Tools"}
+{"label":"SKILL","pattern":"Decision Support Systems"}
+{"label":"SKILL","pattern":"DevOps Tools"}
+{"label":"SKILL","pattern":"E-commerce Development"}
+{"label":"SKILL","pattern":"Embedded Firmware"}
+{"label":"SKILL","pattern":"Enterprise Systems"}
+{"label":"SKILL","pattern":"Geospatial Analysis"}
+{"label":"SKILL","pattern":"IT Infrastructure"}
+{"label":"SKILL","pattern":"IT Risk Management"}
+{"label":"SKILL","pattern":"IT Solutions"}
+{"label":"SKILL","pattern":"Java Development"}
+{"label":"SKILL","pattern":"Knowledge Base Management"}
+{"label":"SKILL","pattern":"Mobile Security"}
+{"label":"SKILL","pattern":"Network Protocols"}
+{"label":"SKILL","pattern":"Object-Oriented Design"}
+{"label":"SKILL","pattern":"Payment Gateway Integration"}
+{"label":"SKILL","pattern":"Performance Metrics"}
+{"label":"SKILL","pattern":"Process Automation"}
+{"label":"SKILL","pattern":"Project Scheduling"}
+{"label":"SKILL","pattern":"Quality Assurance (QA)"}
+{"label":"SKILL","pattern":"Resource Management"}
+{"label":"SKILL","pattern":"Security Auditing"}
+{"label":"SKILL","pattern":"Server Configuration"}
+{"label":"SKILL","pattern":"Service-Oriented Architecture (SOA)"}
+{"label":"SKILL","pattern":"Systems Monitoring"}
+{"label":"SKILL","pattern":"Technical Consulting"}
+{"label":"SKILL","pattern":"Virtual Machine Management"}
+{"label":"SKILL","pattern":"Voice Recognition"}
+{"label":"SKILL","pattern":"Web Crawling"}
+{"label":"SKILL","pattern":"Web Services Integration"}
+{"label":"SKILL","pattern":"WebSockets"}
+{"label":"SKILL","pattern":"Wireless Networks"}
+{"label":"SKILL","pattern":"Algorithm Optimization"}
+{"label":"SKILL","pattern":"Application Performance Management"}
+{"label":"SKILL","pattern":"Backup Solutions"}
+{"label":"SKILL","pattern":"Back-End Development"}
+{"label":"SKILL","pattern":"Business Continuity Planning"}
+{"label":"SKILL","pattern":"Cloud Migration"}
+{"label":"SKILL","pattern":"Data Center Management"}
+{"label":"SKILL","pattern":"Data Encryption"}
+{"label":"SKILL","pattern":"Data Governance Frameworks"}
+{"label":"SKILL","pattern":"Data Privacy"}
+{"label":"SKILL","pattern":"Design Patterns"}
+{"label":"SKILL","pattern":"Encryption"}
+{"label":"SKILL","pattern":"Enterprise Application Integration"}
+{"label":"SKILL","pattern":"ERP Implementation"}
+{"label":"SKILL","pattern":"Ethical Hacking Techniques"}
+{"label":"SKILL","pattern":"Data Annotation"}
+{"label":"SKILL","pattern":"Data Quality Assurance"}
+{"label":"SKILL","pattern":"Data Science Techniques"}
+{"label":"SKILL","pattern":"Database Optimization"}
+{"label":"SKILL","pattern":"Deployment Automation"}
+{"label":"SKILL","pattern":"DevOps Practices"}
+{"label":"SKILL","pattern":"Enterprise Software"}
+{"label":"SKILL","pattern":"Firmware Development"}
+{"label":"SKILL","pattern":"Functional Programming"}
+{"label":"SKILL","pattern":"IoT Security"}
+{"label":"SKILL","pattern":"IT Asset Management"}
+{"label":"SKILL","pattern":"IT Strategy Planning"}
+{"label":"SKILL","pattern":"Machine Learning Algorithms"}
+{"label":"SKILL","pattern":"Mobile Device Management (MDM)"}
+{"label":"SKILL","pattern":"Network Design"}
+{"label":"SKILL","pattern":"Network Monitoring"}
+{"label":"SKILL","pattern":"Network Troubleshooting"}
+{"label":"SKILL","pattern":"Performance Analysis"}
+{"label":"SKILL","pattern":"Predictive Maintenance"}
+{"label":"SKILL","pattern":"Process Improvement"}
+{"label":"SKILL","pattern":"Quality Control"}
+{"label":"SKILL","pattern":"Risk Assessment"}
+{"label":"SKILL","pattern":"Software Configuration"}
+{"label":"SKILL","pattern":"Software Documentation"}
+{"label":"SKILL","pattern":"Software Maintenance"}
+{"label":"SKILL","pattern":"Software Prototyping"}
+{"label":"SKILL","pattern":"Systems Automation"}
+{"label":"SKILL","pattern":"Systems Integration Testing"}
+{"label":"SKILL","pattern":"System Virtualization"}
+{"label":"SKILL","pattern":"Threat Intelligence"}
+{"label":"SKILL","pattern":"Unified Communications"}
+{"label":"SKILL","pattern":"User Interface (UI) Frameworks"}
+{"label":"SKILL","pattern":"User Experience (UX) Research"}
+{"label":"SKILL","pattern":"Video Conferencing Solutions"}
+{"label":"SKILL","pattern":"Web Application Frameworks"}
+{"label":"SKILL","pattern":"Web Application Optimization"}
+{"label":"SKILL","pattern":"Web Hosting"}
+{"label":"SKILL","pattern":"Web Performance Tuning"}
+{"label":"SKILL","pattern":"Wireless Technologies"}
+{"label":"SKILL","pattern":"YAML"}
+{"label":"SKILL","pattern":"Asset Tracking"}
+{"label":"SKILL","pattern":"Blockchain Technology"}
+{"label":"SKILL","pattern":"Business Process Management (BPM)"}
+{"label":"SKILL","pattern":"Containerization"}
+{"label":"SKILL","pattern":"Cloud Application Security"}
+{"label":"SKILL","pattern":"Cloud Service Models"}
+{"label":"SKILL","pattern":"Data Analytics Platforms"}
+{"label":"SKILL","pattern":"Data Collection Methods"}
+{"label":"SKILL","pattern":"Data Storage Solutions"}
+{"label":"SKILL","pattern":"Digital Strategy Development"}
+{"label":"SKILL","pattern":"Digital Transformation"}
+{"label":"SKILL","pattern":"E-commerce Platforms"}
+{"label":"SKILL","pattern":"Embedded System Design"}
+{"label":"SKILL","pattern":"Graph Databases"}
+{"label":"SKILL","pattern":"Identity and Access Management (IAM)"}
+{"label":"SKILL","pattern":"IT Compliance Management"}
+{"label":"SKILL","pattern":"IT Governance"}
+{"label":"SKILL","pattern":"JavaScript Frameworks (React, Angular, Vue)"}
+{"label":"SKILL","pattern":"Low-Code Platforms"}
+{"label":"SKILL","pattern":"Mobile App Security"}
+{"label":"SKILL","pattern":"Network Architecture"}
+{"label":"SKILL","pattern":"Network Design and Implementation"}
+{"label":"SKILL","pattern":"Network Security Protocols"}
+{"label":"SKILL","pattern":"Predictive Data Analysis"}
+{"label":"SKILL","pattern":"Public Cloud Solutions"}
+{"label":"SKILL","pattern":"RPA Tools"}
+{"label":"SKILL","pattern":"SaaS Implementation"}
+{"label":"SKILL","pattern":"Software Development Life Cycle (SDLC)"}
+{"label":"SKILL","pattern":"Systems Design"}
+{"label":"SKILL","pattern":"Test Automation Frameworks"}
+{"label":"SKILL","pattern":"Unified Threat Management (UTM)"}
+{"label":"SKILL","pattern":"Virtualization Technologies"}
+{"label":"SKILL","pattern":"Web-Based Technologies"}
+{"label":"SKILL","pattern":"Web Service APIs"}
+{"label":"SKILL","pattern":"Wireless Network Security"}
+{"label":"SKILL","pattern":"Cloud-Based Databases"}
+{"label":"SKILL","pattern":"Digital Content Creation"}
+{"label":"SKILL","pattern":"Digital Media"}
+{"label":"SKILL","pattern":"Document Automation"}
+{"label":"SKILL","pattern":"ERP Solutions"}
+{"label":"SKILL","pattern":"IT Service Management (ITSM)"}
+{"label":"SKILL","pattern":"Legacy System Integration"}
+{"label":"SKILL","pattern":"Multi-Cloud Environments"}
+{"label":"SKILL","pattern":"Security Information and Event Management (SIEM)"}
+{"label":"SKILL","pattern":"Software Development Methodologies"}
+{"label":"SKILL","pattern":"System Architecture"}
+{"label":"SKILL","pattern":"Web Application Development"}
+{"label":"SKILL","pattern":"Web-Based Analytics"}
+{"label":"SKILL","pattern":"Workflow Automation"}
+{"label":"SKILL","pattern":"XML Technologies"}
+{"label":"SKILL","pattern":"Application Lifecycle Management"}
+{"label":"SKILL","pattern":"Big Data Tools"}
+{"label":"SKILL","pattern":"Business Continuity"}
+{"label":"SKILL","pattern":"Cloud Data Management"}
+{"label":"SKILL","pattern":"Cloud Infrastructure Management"}
+{"label":"SKILL","pattern":"Configuration Management"}
+{"label":"SKILL","pattern":"Data Governance Policies"}
+{"label":"SKILL","pattern":"Enterprise Resource Planning (ERP) Systems"}
+{"label":"SKILL","pattern":"Active Listening"}
+{"label":"SKILL","pattern":"Adaptability"}
+{"label":"SKILL","pattern":"Analytical Thinking"}
+{"label":"SKILL","pattern":"Collaboration"}
+{"label":"SKILL","pattern":"Communication"}
+{"label":"SKILL","pattern":"Conflict Resolution"}
+{"label":"SKILL","pattern":"Creativity"}
+{"label":"SKILL","pattern":"Critical Thinking"}
+{"label":"SKILL","pattern":"Customer Service"}
+{"label":"SKILL","pattern":"Decision Making"}
+{"label":"SKILL","pattern":"Delegation"}
+{"label":"SKILL","pattern":"Emotional Intelligence"}
+{"label":"SKILL","pattern":"Empathy"}
+{"label":"SKILL","pattern":"Flexibility"}
+{"label":"SKILL","pattern":"Leadership"}
+{"label":"SKILL","pattern":"Motivation"}
+{"label":"SKILL","pattern":"Negotiation"}
+{"label":"SKILL","pattern":"Networking"}
+{"label":"SKILL","pattern":"Organization"}
+{"label":"SKILL","pattern":"Patience"}
+{"label":"SKILL","pattern":"Problem Solving"}
+{"label":"SKILL","pattern":"Professionalism"}
+{"label":"SKILL","pattern":"Resilience"}
+{"label":"SKILL","pattern":"Teamwork"}
+{"label":"SKILL","pattern":"Time Management"}
+{"label":"SKILL","pattern":"Work Ethic"}
+{"label":"SKILL","pattern":"Accountability"}
+{"label":"SKILL","pattern":"Adaptability to Change"}
+{"label":"SKILL","pattern":"Attention to Detail"}
+{"label":"SKILL","pattern":"Coaching"}
+{"label":"SKILL","pattern":"Conflict Management"}
+{"label":"SKILL","pattern":"Cultural Awareness"}
+{"label":"SKILL","pattern":"Dependability"}
+{"label":"SKILL","pattern":"Diplomacy"}
+{"label":"SKILL","pattern":"Efficiency"}
+{"label":"SKILL","pattern":"Empowerment"}
+{"label":"SKILL","pattern":"Goal Setting"}
+{"label":"SKILL","pattern":"Influence"}
+{"label":"SKILL","pattern":"Initiative"}
+{"label":"SKILL","pattern":"Innovation"}
+{"label":"SKILL","pattern":"Integrity"}
+{"label":"SKILL","pattern":"Listening Skills"}
+{"label":"SKILL","pattern":"Mediation"}
+{"label":"SKILL","pattern":"Negotiation Skills"}
+{"label":"SKILL","pattern":"Open-Mindedness"}
+{"label":"SKILL","pattern":"Planning"}
+{"label":"SKILL","pattern":"Presentation Skills"}
+{"label":"SKILL","pattern":"Presentation Creation"}
+{"label":"SKILL","pattern":"Prioritization"}
+{"label":"SKILL","pattern":"Public Speaking"}
+{"label":"SKILL","pattern":"Relationship Building"}
+{"label":"SKILL","pattern":"Self-Discipline"}
+{"label":"SKILL","pattern":"Self-Motivation"}
+{"label":"SKILL","pattern":"Strategic Thinking"}
+{"label":"SKILL","pattern":"Stress Management"}
+{"label":"SKILL","pattern":"Team Building"}
+{"label":"SKILL","pattern":"Time Optimization"}
+{"label":"SKILL","pattern":"Verbal Communication"}
+{"label":"SKILL","pattern":"Written Communication"}
+{"label":"SKILL","pattern":"Adaptability in High Pressure"}
+{"label":"SKILL","pattern":"Assertiveness"}
+{"label":"SKILL","pattern":"Change Management"}
+{"label":"SKILL","pattern":"Conflict Resolution Strategies"}
+{"label":"SKILL","pattern":"Decision-Making Skills"}
+{"label":"SKILL","pattern":"Emotional Regulation"}
+{"label":"SKILL","pattern":"Enthusiasm"}
+{"label":"SKILL","pattern":"Feedback Reception"}
+{"label":"SKILL","pattern":"Flexibility in Roles"}
+{"label":"SKILL","pattern":"Goal Achievement"}
+{"label":"SKILL","pattern":"High Emotional Quotient"}
+{"label":"SKILL","pattern":"Innovation Mindset"}
+{"label":"SKILL","pattern":"Leadership Skills"}
+{"label":"SKILL","pattern":"Motivational Skills"}
+{"label":"SKILL","pattern":"Nonverbal Communication"}
+{"label":"SKILL","pattern":"Open Communication"}
+{"label":"SKILL","pattern":"Persuasion"}
+{"label":"SKILL","pattern":"Positive Attitude"}
+{"label":"SKILL","pattern":"Problem Identification"}
+{"label":"SKILL","pattern":"Professional Networking"}
+{"label":"SKILL","pattern":"Relationship Management"}
+{"label":"SKILL","pattern":"Risk Assessment"}
+{"label":"SKILL","pattern":"Self-Awareness"}
+{"label":"SKILL","pattern":"Social Skills"}
+{"label":"SKILL","pattern":"Team Collaboration"}
+{"label":"SKILL","pattern":"Team Management"}
+{"label":"SKILL","pattern":"Technical Writing"}
+{"label":"SKILL","pattern":"Tactfulness"}
+{"label":"SKILL","pattern":"Transparency"}
+{"label":"SKILL","pattern":"Trustworthiness"}
+{"label":"SKILL","pattern":"Visionary Thinking"}
+{"label":"SKILL","pattern":"Work-Life Balance"}
+{"label":"SKILL","pattern":"Active Engagement"}
+{"label":"SKILL","pattern":"Analytical Communication"}
+{"label":"SKILL","pattern":"Behavioral Adaptability"}
+{"label":"SKILL","pattern":"Collaborative Problem-Solving"}
+{"label":"SKILL","pattern":"Conflict Negotiation"}
+{"label":"SKILL","pattern":"Emotional Resilience"}
+{"label":"SKILL","pattern":"Effective Feedback"}
+{"label":"SKILL","pattern":"Interpersonal Communication"}
+{"label":"SKILL","pattern":"Performance Improvement"}
+{"label":"SKILL","pattern":"Assertive Communication"}
+{"label":"SKILL","pattern":"Change Adaptation"}
+{"label":"SKILL","pattern":"Conflict Handling"}
+{"label":"SKILL","pattern":"Creative Problem Solving"}
+{"label":"SKILL","pattern":"Critical Analysis"}
+{"label":"SKILL","pattern":"Customer Focus"}
+{"label":"SKILL","pattern":"Diplomacy Skills"}
+{"label":"SKILL","pattern":"Empathetic Communication"}
+{"label":"SKILL","pattern":"Emotional Support"}
+{"label":"SKILL","pattern":"Goal Orientation"}
+{"label":"SKILL","pattern":"Influence Skills"}
+{"label":"SKILL","pattern":"Innovation Facilitation"}
+{"label":"SKILL","pattern":"Leadership Development"}
+{"label":"SKILL","pattern":"Listening and Understanding"}
+{"label":"SKILL","pattern":"Motivation Techniques"}
+{"label":"SKILL","pattern":"Negotiation Techniques"}
+{"label":"SKILL","pattern":"Organizational Skills"}
+{"label":"SKILL","pattern":"Performance Evaluation"}
+{"label":"SKILL","pattern":"Persuasive Communication"}
+{"label":"SKILL","pattern":"Positive Reinforcement"}
+{"label":"SKILL","pattern":"Professional Development"}
+{"label":"SKILL","pattern":"Relationship Management Skills"}
+{"label":"SKILL","pattern":"Resilient Thinking"}
+{"label":"SKILL","pattern":"Resource Management"}
+{"label":"SKILL","pattern":"Risk Management"}
+{"label":"SKILL","pattern":"Self-Improvement"}
+{"label":"SKILL","pattern":"Strategic Planning"}
+{"label":"SKILL","pattern":"Team Coordination"}
+{"label":"SKILL","pattern":"Team Engagement"}
+{"label":"SKILL","pattern":"Team Facilitation"}
+{"label":"SKILL","pattern":"Team Leadership"}
+{"label":"SKILL","pattern":"Time Prioritization"}
+{"label":"SKILL","pattern":"Tactful Communication"}
+{"label":"SKILL","pattern":"Work Delegation"}
+{"label":"SKILL","pattern":"Adaptability in Team Settings"}
+{"label":"SKILL","pattern":"Articulation"}
+{"label":"SKILL","pattern":"Communication Clarity"}
+{"label":"SKILL","pattern":"Compassionate Leadership"}
+{"label":"SKILL","pattern":"Constructive Feedback"}
+{"label":"SKILL","pattern":"Cultural Sensitivity"}
+{"label":"SKILL","pattern":"Decision-Making Processes"}
+{"label":"SKILL","pattern":"Dynamic Thinking"}
+{"label":"SKILL","pattern":"Employee Motivation"}
+{"label":"SKILL","pattern":"Effective Collaboration"}
+{"label":"SKILL","pattern":"Effective Communication"}
+{"label":"SKILL","pattern":"Empathetic Leadership"}
+{"label":"SKILL","pattern":"Feedback Delivery"}
+{"label":"SKILL","pattern":"Goal Setting Techniques"}
+{"label":"SKILL","pattern":"Interpersonal Relationships"}
+{"label":"SKILL","pattern":"Performance Management"}
+{"label":"SKILL","pattern":"Problem-Solving Strategies"}
+{"label":"SKILL","pattern":"Public Speaking Skills"}
+{"label":"SKILL","pattern":"Resilient Communication"}
+{"label":"SKILL","pattern":"Self-Assessment"}
+{"label":"SKILL","pattern":"Self-Evaluation"}
+{"label":"SKILL","pattern":"Service Excellence"}
+{"label":"SKILL","pattern":"Strategic Communication"}
+{"label":"SKILL","pattern":"Team Dynamics"}
+{"label":"SKILL","pattern":"Team Support"}
+{"label":"SKILL","pattern":"Time Efficiency"}
+{"label":"SKILL","pattern":"Transparent Communication"}
+{"label":"SKILL","pattern":"Understanding Team Roles"}
+{"label":"SKILL","pattern":"Verbal and Nonverbal Communication"}
+{"label":"SKILL","pattern":"Vision Development"}
+{"label":"SKILL","pattern":"Workplace Adaptability"}
+{"label":"SKILL","pattern":"Active Participation"}
+{"label":"SKILL","pattern":"Conflict Resolution Techniques"}
+{"label":"SKILL","pattern":"Cultural Competency"}
+{"label":"SKILL","pattern":"Empathetic Problem Solving"}
+{"label":"SKILL","pattern":"Feedback Implementation"}
+{"label":"SKILL","pattern":"Flexible Problem Solving"}
+{"label":"SKILL","pattern":"Goal Achievement Strategies"}
+{"label":"SKILL","pattern":"Interpersonal Effectiveness"}
+{"label":"SKILL","pattern":"Leadership and Influence"}
+{"label":"SKILL","pattern":"Motivational Strategies"}
+{"label":"SKILL","pattern":"Negotiation and Persuasion"}
+{"label":"SKILL","pattern":"Organizational Effectiveness"}
+{"label":"SKILL","pattern":"Performance Improvement Strategies"}
+{"label":"SKILL","pattern":"Professional Relationship Building"}
+{"label":"SKILL","pattern":"Resilience in Adversity"}
+{"label":"SKILL","pattern":"Self-Motivation Techniques"}
+{"label":"SKILL","pattern":"Strategic Interaction"}
+{"label":"SKILL","pattern":"Team Effectiveness"}
+{"label":"SKILL","pattern":"Team Motivation"}
+{"label":"SKILL","pattern":"Time Management Techniques"}
+{"label":"SKILL","pattern":"Verbal Effectiveness"}
+{"label":"SKILL","pattern":"Workplace Communication"}
+{"label":"SKILL","pattern":"Emotional Understanding"}
+{"label":"SKILL","pattern":"Conflict Prevention"}
+{"label":"SKILL","pattern":"Effective Feedback Mechanisms"}
+{"label":"SKILL","pattern":"Positive Work Environment"}
+{"label":"SKILL","pattern":"Team Efficiency"}
+{"label":"SKILL","pattern":"Collaborative Leadership"}
+{"label":"SKILL","pattern":"Cross-Cultural Communication"}
+{"label":"SKILL","pattern":"Emotional Influence"}
+{"label":"SKILL","pattern":"Interpersonal Adaptability"}
+{"label":"SKILL","pattern":"Leadership Adaptation"}
+{"label":"SKILL","pattern":"Motivational Leadership"}
+{"label":"SKILL","pattern":"Organizational Adaptability"}
+{"label":"SKILL","pattern":"Resilient Leadership"}
+{"label":"SKILL","pattern":"Team Success"}
+{"label":"SKILL","pattern":"Adaptability in Leadership"}
+{"label":"SKILL","pattern":"Agile Thinking"}
+{"label":"SKILL","pattern":"Analytical Problem Solving"}
+{"label":"SKILL","pattern":"Assertive Listening"}
+{"label":"SKILL","pattern":"Authentic Communication"}
+{"label":"SKILL","pattern":"Behavior Management"}
+{"label":"SKILL","pattern":"Brainstorming Techniques"}
+{"label":"SKILL","pattern":"Change Facilitation"}
+{"label":"SKILL","pattern":"Collaborative Mindset"}
+{"label":"SKILL","pattern":"Compassionate Communication"}
+{"label":"SKILL","pattern":"Conflict Resolution Strategies"}
+{"label":"SKILL","pattern":"Constructive Problem Solving"}
+{"label":"SKILL","pattern":"Cooperative Teamwork"}
+{"label":"SKILL","pattern":"Critical Judgement"}
+{"label":"SKILL","pattern":"Emotional Adaptability"}
+{"label":"SKILL","pattern":"Empathetic Listening"}
+{"label":"SKILL","pattern":"Employee Engagement"}
+{"label":"SKILL","pattern":"Flexible Thinking"}
+{"label":"SKILL","pattern":"Influence and Persuasion"}
+{"label":"SKILL","pattern":"Innovative Thinking"}
+{"label":"SKILL","pattern":"Leadership Communication"}
+{"label":"SKILL","pattern":"Mediation Skills"}
+{"label":"SKILL","pattern":"Motivational Communication"}
+{"label":"SKILL","pattern":"Negotiation Skills Development"}
+{"label":"SKILL","pattern":"Open-Minded Problem Solving"}
+{"label":"SKILL","pattern":"Organizational Adaptability"}
+{"label":"SKILL","pattern":"Personal Accountability"}
+{"label":"SKILL","pattern":"Problem-Solving"}
+{"label":"SKILL","pattern":"Problem-Solving Mindset"}
+{"label":"SKILL","pattern":"Professional Empathy"}
+{"label":"SKILL","pattern":"Relationship Building Techniques"}
+{"label":"SKILL","pattern":"Resilient Problem Solving"}
+{"label":"SKILL","pattern":"Self-Discipline Techniques"}
+{"label":"SKILL","pattern":"Self-Reflection"}
+{"label":"SKILL","pattern":"Social Intelligence"}
+{"label":"SKILL","pattern":"Strategic Decision Making"}
+{"label":"SKILL","pattern":"Strategic Influence"}
+{"label":"SKILL","pattern":"Team Collaboration Techniques"}
+{"label":"SKILL","pattern":"Team Dynamics Management"}
+{"label":"SKILL","pattern":"Team Leadership Strategies"}
+{"label":"SKILL","pattern":"Time Management Strategies"}
+{"label":"SKILL","pattern":"Transparent Leadership"}
+{"label":"SKILL","pattern":"Trust Building"}
+{"label":"SKILL","pattern":"Unbiased Decision Making"}
+{"label":"SKILL","pattern":"Work Efficiency"}
+{"label":"SKILL","pattern":"Work Relationship Management"}
+{"label":"SKILL","pattern":"Active Empathy"}
+{"label":"SKILL","pattern":"Analytical Communication"}
+{"label":"SKILL","pattern":"Collaborative Engagement"}
+{"label":"SKILL","pattern":"Communication Effectiveness"}
+{"label":"SKILL","pattern":"Conflict Mediation"}
+{"label":"SKILL","pattern":"Creativity in Problem Solving"}
+{"label":"SKILL","pattern":"Cultural Adaptability"}
+{"label":"SKILL","pattern":"Empathic Leadership"}
+{"label":"SKILL","pattern":"Flexible Adaptation"}
+{"label":"SKILL","pattern":"Goal-Oriented Thinking"}
+{"label":"SKILL","pattern":"High-Impact Communication"}
+{"label":"SKILL","pattern":"Innovative Problem Solving"}
+{"label":"SKILL","pattern":"Leadership Insight"}
+{"label":"SKILL","pattern":"Motivational Leadership Techniques"}
+{"label":"SKILL","pattern":"Non-Judgmental Listening"}
+{"label":"SKILL","pattern":"Organizational Communication"}
+{"label":"SKILL","pattern":"Performance Enhancement"}
+{"label":"SKILL","pattern":"Resilient Communication Techniques"}
+{"label":"SKILL","pattern":"Self-Management"}
+{"label":"SKILL","pattern":"Social Awareness"}
+{"label":"SKILL","pattern":"Strategic Adaptability"}
+{"label":"SKILL","pattern":"Strategic Empathy"}
+{"label":"SKILL","pattern":"Team Cohesion"}
+{"label":"SKILL","pattern":"Team Effectiveness Strategies"}
+{"label":"SKILL","pattern":"Time Optimization Techniques"}
+{"label":"SKILL","pattern":"Transparent Problem Solving"}
+{"label":"SKILL","pattern":"Trustworthy Communication"}
+{"label":"SKILL","pattern":"Verbal Clarity"}
+{"label":"SKILL","pattern":"Visionary Leadership"}
+{"label":"SKILL","pattern":"Workplace Collaboration"}
+{"label":"SKILL","pattern":"Workplace Empathy"}
+{"label":"SKILL","pattern":"Adaptive Problem Solving"}
+{"label":"SKILL","pattern":"Change Management Techniques"}
+{"label":"SKILL","pattern":"Collaborative Leadership"}
+{"label":"SKILL","pattern":"Conflict Resolution Processes"}
+{"label":"SKILL","pattern":"Effective Relationship Management"}
+{"label":"SKILL","pattern":"Empathetic Decision Making"}
+{"label":"SKILL","pattern":"Flexible Leadership"}
+{"label":"SKILL","pattern":"Innovative Leadership"}
+{"label":"SKILL","pattern":"Motivational Strategies"}
+{"label":"SKILL","pattern":"Negotiation Techniques Development"}
+{"label":"SKILL","pattern":"Organizational Sensitivity"}
+{"label":"SKILL","pattern":"Performance Improvement Strategies"}
+{"label":"SKILL","pattern":"Resilient Leadership Techniques"}
+{"label":"SKILL","pattern":"Self-Awareness Skills"}
+{"label":"SKILL","pattern":"Social Skill Development"}
+{"label":"SKILL","pattern":"Strategic Communication Techniques"}
+{"label":"SKILL","pattern":"Team Integration"}
+{"label":"SKILL","pattern":"Time Management Practices"}
+{"label":"SKILL","pattern":"Transparent Decision Making"}
+{"label":"SKILL","pattern":"Visionary Thinking Skills"}
+{"label":"SKILL","pattern":"Workplace Effectiveness"}
+{"label":"SKILL","pattern":"Workplace Flexibility"}
+{"label":"SKILL","pattern":"Adaptability in Team Environments"}
+{"label":"SKILL","pattern":"Constructive Feedback Techniques"}
+{"label":"SKILL","pattern":"Working Under Pressure"}
+{"label":"SKILL","pattern":"Task Delegation"}
+{"label":"SKILL","pattern":"Motivational Learner"}
+{"label":"SKILL","pattern":"Visual Studio Code"}
+{"label":"SKILL","pattern":"Visual Basic"}
+{"label":"SKILL","pattern":"Photoshop"}
+{"label":"SKILL","pattern":"Sketch"}
+{"label":"SKILL","pattern":"Figma"}
+{"label":"SKILL","pattern":"Filmora"}
+{"label":"SKILL","pattern":"MyPHPAdmin"}
+{"label":"SKILL","pattern":"Google Slides"}
+{"label":"SKILL","pattern":"Google Collaboration"}
+{"label":"SKILL","pattern":"Jupyter"}
+{"label":"SKILL","pattern":"Prezi"}
+{"label":"SKILL","pattern":"Analyzing Evidence"}
+{"label":"SKILL","pattern":"Responsible"}
+{"label":"SKILL","pattern":"Strategic Preparation"}
+{"label":"SKILL","pattern":"Logical Thinking"}
+{"label":"SKILL","pattern":"Resourcefulness"}
